@@ -4,21 +4,20 @@
 ![IA](https://img.shields.io/badge/IA-Assistente%20Inteligente-blue)
 ![Prompt](https://img.shields.io/badge/Prompt-engineering-yellow)
 
-O Copiloto oferece diferentes **modos de interação** para você escolher como quer trabalhar: desde **tirar dúvidas sem mexer no código**, até **editar trechos específicos**, **planejar mudanças maiores** ou **delegar tarefas mais complexas** com um modo mais autônomo. A ideia é simples: você seleciona o modo que melhor combina com seu objetivo no momento e ganha velocidade com mais controle.
+Realizei esse projeto com base em uma série de aulas disponíveis na plataforma da DIO, a respeito da criação e do ideal uso de um copilot. Vou deixar aqui esse README baseado no README do diretório principal e personalizado com os links para os modelos de prompts que fiz baseados na minha necessidade e conhecimentos atuais.
 
 ---
 
 # ❓ Ask
-O modo **Ask** é para fazer perguntas e entender coisas, **sem alterar seu código**. Você pode perguntar sobre um arquivo específico, um erro, uma função, uma stack trace ou até conceitos gerais.
-
+O modo **Ask** é para fazer perguntas e entender coisas, **sem alterar seu código**.
 O Copiloto lê o contexto do projeto (arquivos abertos, seleção, etc.) e responde como um **“mentor técnico”**, explicando o que está acontecendo e por quê. **Ele não modifica nada** — só analisa e explica.
 
-📄 **Prompt:** [prompts/prompt-ask.md](prompts/prompt-ask.md)
+📄 **Prompt:** [prompts/prompt-ask.md]()
 
 ---
 
 # ✏️ Edit
-O modo **Edit** serve para **alterar código existente**. Você seleciona um trecho (ou um arquivo inteiro), descreve o que quer mudar, e o Copiloto aplica a modificação diretamente.
+O modo **Edit** serve para **alterar código existente**.
 
 Ideal para:
 - refactors
@@ -31,7 +30,7 @@ Ideal para:
 
 Aqui o foco é: **“pegue isso que já existe e transforme”**.
 
-📄 **Prompt:** [prompts/prompt-edit.md](prompts/prompt-edit.md)
+📄 **Prompt:** [prompts/prompt-edit.md]()
 
 ---
 
@@ -45,8 +44,7 @@ Ele:
 
 Isso é muito útil para **mudanças grandes**, **novas features** ou quando você quer **validar a abordagem** antes de mexer no código.
 
-📄 **Prompt:** [prompts/prompt-plan.md](prompts/prompt-plan.md)
-
+📄 **Prompt:** []()
 ---
 
 # 🤖 Agent
@@ -71,11 +69,3 @@ Funciona quase como um **tutor particular**.
 
 📄 **Prompt:** [prompts/prompt-study.md](prompts/prompt-study.md)
 
----
-
-# 🧠 Resumo mental rápido
-- **Ask** → entender  
-- **Plan** → planejar antes de agir  
-- **Edit** → mudar código  
-- **Agent** → executar tarefas grandes sozinho  
-- **Study** → entendimento ativo  
