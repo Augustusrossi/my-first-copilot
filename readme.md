@@ -12,7 +12,7 @@ Realizei esse projeto com base em uma série de aulas disponíveis na plataforma
 O modo **Ask** é para fazer perguntas e entender coisas, **sem alterar seu código**.
 O Copiloto lê o contexto do projeto (arquivos abertos, seleção, etc.) e responde como um **“mentor técnico”**, explicando o que está acontecendo e por quê. **Ele não modifica nada** — só analisa e explica.
 
-📄 **Prompt:** [prompts/prompt-ask.md]()
+📄 **Prompt:** [prompts/prompt-ask.md](prompts/prompt-ask.md)
 
 ---
 
@@ -30,7 +30,7 @@ Ideal para:
 
 Aqui o foco é: **“pegue isso que já existe e transforme”**.
 
-📄 **Prompt:** [prompts/prompt-edit.md]()
+📄 **Prompt:** [prompts/prompt-edit.md](prompts/prompt-edit.md)
 
 ---
 
@@ -44,7 +44,7 @@ Ele:
 
 Isso é muito útil para **mudanças grandes**, **novas features** ou quando você quer **validar a abordagem** antes de mexer no código.
 
-📄 **Prompt:** []()
+📄 **Prompt:** [prompts/prompt-plan.md](prompts/prompt-plan.md)
 ---
 
 # 🤖 Agent
